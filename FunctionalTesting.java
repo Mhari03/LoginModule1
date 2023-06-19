@@ -14,7 +14,7 @@ import ru.yandex.qatools.ashot.AShot;
 import ru.yandex.qatools.ashot.Screenshot;
 import ru.yandex.qatools.ashot.shooting.ShootingStrategies;
 
-public class LoginPage {
+public class FunctionalTesting {
 
 
 	static
